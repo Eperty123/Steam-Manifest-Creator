@@ -11,3 +11,9 @@ This is very helpful if you have a backup copy of your games from a harddrive th
 <b>Note:</b> <i>You must have the games in your Steam account otherwise it won't work.</i>
 # Coding
 SMC is coded in VB.net due to my laziness of not bothering creating it in C#. I may change it in the future, consider it a subject-to-change for now.
+
+# Requirements
+* Visual C++ Runtime 2013 (both x86 and x64)
+* Windows Vista*, 7, 8, 8.1 or 10.
+
+Enjoy.
