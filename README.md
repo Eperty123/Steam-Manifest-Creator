@@ -17,3 +17,5 @@ SMC is coded in VB.net due to my laziness of not bothering creating it in C#. I 
 * Windows Vista*, 7, 8, 8.1 or 10.
 
 Enjoy.
+
+<b>I am in no way affliated with Valve in any means. This is a hobby project.</b>
