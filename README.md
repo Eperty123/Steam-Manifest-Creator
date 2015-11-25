@@ -15,7 +15,7 @@ SMC is coded in VB.net due to my laziness of not bothering creating it in C#. I 
 # Requirements
 * Visual C++ Runtime 2013 (both x86 and x64)
 * Windows Vista*, 7, 8, 8.1 or 10.
-
+* Dot net 4.5.
 Enjoy.
 
 <b>I am in no way affliated with Valve in any means. This is a hobby project.</b>
