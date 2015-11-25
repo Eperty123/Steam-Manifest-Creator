@@ -1,7 +1,7 @@
 # Steam-Manifest-Creator
 Stop Steam from re-downloading your games!
 
-# What's the purpose of this?
+# Description
 If you ever had experienced Steam re-downloading your games even though you've copied all the files required to right folder then you'd know that it's
 a pain to download them all over again. But guess what, SMC (Steam Manifest Creator) will fix the issue by creating the necessary manifest file for the appropriate game.
 
