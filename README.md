@@ -6,7 +6,7 @@ If you ever had experienced Steam re-downloading your games even though you've c
 a pain to download them all over again. But guess what, SMC (Steam Manifest Creator) will fix the issue by creating the necessary manifest file for the appropriate games.
 
 SMC will not patch, hack or download additional files that may harm your Steam account or computer. All it does is creating the manifest file for the games you already have.
-This is very helpful if you have a backup copy of your games from a harddrive that you want to copy back to your Steam library.
+This is very useful if you have a backup copy of your games from a harddrive that you want to copy back to your Steam library.
 
 <b>Note:</b> <i>You must have the games in your Steam account otherwise it won't work.</i>
 # Coding
