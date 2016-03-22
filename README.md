@@ -18,6 +18,6 @@ SMC is coded in VB.net due to my laziness of not bothering creating it in C#. I 
 * Dot net 4.5.
 
 
-<b>I am in no way affliated with Valve in any means. This is a hobby project.</b>
+<b>I am in no way affiliated with Valve in any means. This is a hobby project.</b>
 
 Enjoy!
