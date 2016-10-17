@@ -9,8 +9,8 @@ SMC will not patch, hack or download additional files that may harm your Steam a
 This is very useful if you have a backup copy of your games from a harddrive that you want to copy back to your Steam library.
 
 <b>Note:</b> <i>You must have the games in your Steam account otherwise it won't work.</i>
-# Coding
-SMC is coded in C#.
+# Language
+SMC has recently been converted to c#.
 
 # Requirements
 * Visual C++ Runtime 2015 (both x86 and x64)
