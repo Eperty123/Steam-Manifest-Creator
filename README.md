@@ -18,7 +18,7 @@ SMC is coded in C#.
 * Dot net 4.5.
 
 # Documentation
-<a href="https://github.com/Eperty123/Steam-Manifest-Creator/wiki/Documentation">See the documentation here.</a>
+<a href="https://github.com/Eperty123/Steam-Manifest-Creator/wiki/Documentation" target"_blank">See the documentation here.</a>
 
 <b>I am in no way affiliated with Valve in any means. This is a hobby project.</b>
 
