@@ -20,6 +20,9 @@ SMC has recently been converted to c#.
 # Documentation
 <a href="https://github.com/Eperty123/Steam-Manifest-Creator/wiki/Documentation" target"_blank">See the documentation here.</a>
 
+# Note
+When creating manifests - Steam will use a lot of hdd IO due to its nature of "downloading" (verify) games. You will notice that the game it's verifying has 0 bytes, which is very normal. Let Steam finish its work and wala.
+
 <b>I am in no way affiliated with Valve in any means. This is a hobby project.</b>
 
 Enjoy!
