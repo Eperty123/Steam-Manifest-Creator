@@ -21,7 +21,7 @@ SMC has recently been converted to c#.
 <a href="https://github.com/Eperty123/Steam-Manifest-Creator/wiki/Documentation" target"_blank">See the documentation here.</a>
 
 # Note
-When creating manifests - Steam will use a lot of hdd IO due to its nature of "downloading" (verify) games. This may cause pc hang ups if not being carefu with big games. You will notice that the game it's verifying has 0 bytes, which is very normal. Let Steam finish its work and wala.
+When creating manifests - Steam will use a lot of hdd IO due to its nature of "downloading" (verify) games. This may cause pc hang ups if not being careful with big games. You will notice that the game it's verifying has 0 bytes, which is very normal. Let Steam finish its work and wala.
 
 # Copyright
 SMC uses ressources from <a href="http://iconarchive.com">Icon Archive</a>. Thanks to the authors who made the icons!
