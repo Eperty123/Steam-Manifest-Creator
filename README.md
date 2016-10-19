@@ -24,7 +24,7 @@ SMC has recently been converted to c#.
 When creating manifests - Steam will use a lot of hdd IO due to its nature of "downloading" (verify) games. You will notice that the game it's verifying has 0 bytes, which is very normal. Let Steam finish its work and wala.
 
 # Copyright
-SMC uses ressources from <a href="http://iconarchieve.com">Icon Archieve</a>. Thanks to the authors who made the icons!
+SMC uses ressources from <a href="http://iconarchive.com">Icon Archive</a>. Thanks to the authors who made the icons!
 
 <b>I am in no way affiliated with Valve in any means. This is a hobby project.</b>
 
