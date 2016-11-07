@@ -25,6 +25,8 @@ When creating manifests - Steam will use a lot of hdd IO due to its nature of "d
 
 You will also notice that the game it's verifying has 0 bytes, which is very normal. Let Steam finish its work and wala.
 
+Also SMC does not support third-party assets or DLC like Skyrim's Creation Kit. You'll have to manually search for the DLC and add it.
+
 # Copyright
 SMC uses ressources from <a href="http://iconarchive.com">Icon Archive</a>. Thanks to the authors who made the icons!
 
